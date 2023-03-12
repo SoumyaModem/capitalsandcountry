@@ -1,0 +1,32 @@
+.container {
+  background-color: #93c5fd;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.subContainer {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+  width: 500px;
+  border-radius: 10px;
+}
+.capital-select {
+  padding: 10px;
+  width: 150px;
+  border-color: #cbd2d9;
+  background-color: #ffffff;
+  border-radius: 5px;
+}
+.span {
+  color: #323f4b;
+  font-family: Roboto;
+  font-size: 14px;
+}
+.option {
+  font-weight: bold;
+  color: #000000;
+}
